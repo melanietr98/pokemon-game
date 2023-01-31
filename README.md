@@ -1,6 +1,9 @@
-## Pokemon Inspired Game
-This is a choice-based game inspired by Pokemon games. You will be able to select your moves which determines if you win or not.
-Motivation
+### <img src="https://i.imgur.com/wFJgJO8.pngf" width="50"><h2 align="center"> Pokemon Inspired Game</h2> 
+This is a choice-based game inspired by Pokemon-Go. You will be able to select your moves which determines if you win or not.
+
+
+
+## Motivation
 The concept of Pokemon games works well for a game and as a fan of the franchise, it was exciting to create a story based on choices.
 
 ## **Layouts**
