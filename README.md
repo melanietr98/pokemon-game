@@ -11,7 +11,9 @@ The concept of Pokemon games works well for a game and as a fan of the franchise
 The layout of the game uses flexbox
 
 ## **Problems Faced**
-Trying to get it deployed onto github for some reason. It would not show up on the platform 
+- Trying to get it deployed onto github for some reason. It would not show up on the platform.
+- trying to structure the layout of the game. For example displaying a text box for the user to enter their name and picking their character instead of it being a random character at the start of the game.
+
 
 
 
