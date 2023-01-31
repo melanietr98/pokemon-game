@@ -1,3 +1,13 @@
+const startBtn = document.getElementById("start-btn");
+const nickNameInput = document.getElementById("nickName");
+const player1Div = document.getElementById("player1");
+
+startBtn.addEventListener("click", function() {
+  const name = nickNameInput.value;
+  player1Div.innerHTML = "<p>Player 1: " + name + "</p>";
+  console.log(name);
+});
+
 class Pokemon{
     constructor(name, sprite, hp, moves){
         this.name = name;
