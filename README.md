@@ -1,4 +1,5 @@
-
+<p align="center">
+<a href="https://melanietr98.github.io/pokemongame/" target="blank"><img align="center" src="https://i.imgur.com/wFJgJO8.pngf" alt="https://melanietr98.github.io/pokemongame/" height="40" width="40" /></a> click to play
 
 
 <h2 align="center">Pokemon- Go Inspired Game:</h2>  
