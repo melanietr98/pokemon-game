@@ -3,7 +3,7 @@
 
 
 <h2 align="center">Pokemon- Go Inspired Game:</h2>  
-This is a choice-based game inspired by Pokemon-Go. You will be able to select your moves which determines if you win or not.
+This is a choice-based game inspired by Pokemon-Go. You will be able to choose your Pokemon species, which determines your stats for the game.
 
 
 
