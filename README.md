@@ -7,11 +7,13 @@ This is a choice-based game inspired by Pokemon-Go. You will be able to choose y
 
 
 
+
+
 ## Motivation <img src="https://img.pokemondb.net/sprites/black-white/normal/pikachu-f.png">
 - The concept of Pokemon games works well for a game and as a fan of the franchise it was exicting to come up with this pvp concept.
 
 ## **Layouts** <img src="https://img.pokemondb.net/sprites/black-white/normal/gyarados-f.png">
-- The layout of the game uses flexbox
+- The layout of the game uses flexbox. This game was created using VS Code, CSS, HTML and JavaScript and displayed on gitHub pages.
 
 ## **Problems Faced**<img src="https://img.pokemondb.net/sprites/black-white/normal/blastoise.png">
 - Trying to get it deployed onto github for some reason. It would not show up on the platform.
