@@ -1,5 +1,5 @@
 const Pokemons = [];
-
+const endSound = document.getElementById("game_end");
 let pokemon1I = -1;
 let pokemon2I = -1;
 let gameStarted = false;
@@ -321,6 +321,9 @@ class Pokemon{
     let f = (pk1.hp <=0) ? pk1 : (pk2.hp<=0) ? pk2 : false;
     
     if(f!=false){
+        if (endSound){
+         endSound.play();
+        }
 	completed = true;
 	updateHealthBar(f);
     return dieEffect(f,50, 5, ()=>{
@@ -432,6 +435,9 @@ if (!obj || !isNumeric(obj.index)){return false;}
  }
  
  function play(pk1I=-1, pk2I=-1){
+    if (endSound){
+         endSound.pause();
+    }
     const selectPokemonCont = document.querySelector("#pokemon_select");
     const healthBars = document.querySelectorAll(".h_bar_cont");
     healthBars.forEach( (hBar)=>{
