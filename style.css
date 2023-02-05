@@ -1,0 +1,59 @@
+th, td{
+    padding: 15px;
+}
+.btn{
+    display: block;
+    width: 100%;
+}
+p{
+    font-family: consolas;
+}
+table.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: white;
+}
+h1, h3, div{
+    text-align: center;
+}
+
+img {
+ width: 170px !important;
+ object-fit: contains;
+}
+
+ .sprite1 {
+   transform: rotateY(145deg);
+ }
+.sprite2 {
+   transform: rotateY(0deg);
+ }
+.label_pk {
+  z-index: 1000;
+}
+
+
+.h_bar_cont {
+  position:relative;
+}
+.h_bar_text {
+  position: absolute;
+  right: 30%;
+  top: 1px;
+  font-weight: bold;
+  color: chartreuse;
+}
+.h_bar_mask {
+  width: 100%;
+}
+.bar_empty_inner {
+  height: 4px;
+  display: inline-block;
+}
+
+.champ_select {
+  height: 150px;
+  max-height: 150px;
+}
