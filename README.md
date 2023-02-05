@@ -26,6 +26,9 @@ The other problem I faced was getting my ideas to translate into code. like I me
 
 
 ## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/venusaur-f.png' style='display:inline;vertical-align:middle;'> **How To Play** 
+
+- Choose your character and enemy to the start the game 
+
 - Press any of the moves on to start the game.
 
 - Goal is to beat the enemy on the right side of your screen. 
@@ -33,3 +36,4 @@ The other problem I faced was getting my ideas to translate into code. like I me
 - You will know who is winning based off the HP levels of your character and the oppents.
 
 - Goal is to get the enemy's HP levels to 0. 
+
