@@ -11,7 +11,7 @@ Welcome to the Pokemon Go Inspired Game repository! This game is a choice-based 
 
 
 
-## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/pikachu-f.png' style='display:inline;vertical-align:middle;'>Motivation 
+## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/charizard.png' style='display:inline;vertical-align:middle;'>Motivation 
 - The motivation behind this was my love for the franchise and the game. I felt very inspired and the concept of Pokemon games works well for a game and as a fan of the franchise it was exicting to come up with this pvp concept. It was super exciting to see my ideas come to life especially as coding it and seeing it progress day by day. 
 
 ## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/gyarados-f.png' style='display:inline;vertical-align:middle;'>**Layouts** 
@@ -25,7 +25,7 @@ The other problem I faced was getting my ideas to translate into code. like I me
 
 
 
-## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/ditto.png' style='display:inline;vertical-align:middle;'> **How To Play** 
+## <br><img src='https://img.pokemondb.net/sprites/black-white/normal/venusaur-f.png' style='display:inline;vertical-align:middle;'> **How To Play** 
 - Press any of the moves on to start the game.
 
 - Goal is to beat the enemy on the right side of your screen. 
