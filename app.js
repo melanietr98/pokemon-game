@@ -81,7 +81,7 @@ class Pokemon{
     
     ], 'danger'],
     
-    ['Blastoise', 'https://i.ibb.co/dJHvF5V/output-onlinegiftools-4.gif', 362,[
+    ['Blastoise', 'https://vignette.wikia.nocookie.net/horadeaventura/images/4/4a/Blastoise.gif/revision/latest?cb=20160214204447&path-prefix=es', 362,[
     
     ['Surf', 'water', 90, 0.95],
     
