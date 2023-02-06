@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">Pokemon-Go Inspired Game:</h2>  
 <p align="center">
-Welcome to the Pokemon Go Inspired Game repository! This game is a choice-based game inspired by the popular Pokemon Go game. In this game, you will be able to choose your Pokemon species, which determines your stats for the game.</p>
+Welcome to the Pokemon Go Inspired Game repository! This game is a choice-based game inspired by the popular Pokemon Go game. In this game, you will be able to choose your Pokemon species, which determines your stats for the game. You will also have the ability to choose your enemy.</p>
 
 
 
@@ -36,4 +36,6 @@ The other problem I faced was getting my ideas to translate into code. like I me
 - You will know who is winning based off the HP levels of your character and the oppents.
 
 - Goal is to get the enemy's HP levels to 0. 
+
+
 
