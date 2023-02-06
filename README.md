@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">Pokemon-Go Inspired Game:</h2>  
 <p align="center">
-Welcome to the Pokemon Go Inspired Game repository! This game is a choice-based adventure inspired by the popular Pokemon Go game. In this game, you will be able to choose your Pokemon species, which determines your stats for the game.</p>
+Welcome to the Pokemon Go Inspired Game repository! This game is a choice-based game inspired by the popular Pokemon Go game. In this game, you will be able to choose your Pokemon species, which determines your stats for the game.</p>
 
 
 
