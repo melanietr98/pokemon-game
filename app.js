@@ -1,10 +1,12 @@
-/*This is a JavaScript code for the Pokemon game. The Pokemons array is declared to store the Pokemon objects. 
-endSound variable holds the reference to an HTML element with id "game_end".
-There are also variables pokemon1I and pokemon2I to store the indices of the two selected Pokemon,
-and gameStarted which is a boolean to keep track of whether the game has started or not.
-A Pokemon class is defined that has a constructor with parameters name, sprite, hp, moves, and btn_styles. 
-These properties are assigned to the instances of the class.
-When a new instance is created, it is pushed to the Pokemons array, and its index is stored in the index property.*/
+/*The code defines a class called "Pokemon" which is used to create objects that represent Pokemon characters. Each Pokemon object has properties such as name, sprite (image), hp (hit points), moves (list of possible moves), and btn_styles (style for buttons). These objects are stored in an array called Pokemons.
+
+There are also some global variables defined such as pokemon1I and pokemon2I which are indices of the two selected Pokemon characters in the Pokemons array. The gameStarted variable is used to keep track of whether the game has started or not.
+
+The constructor method of the Pokemon class is used to set the values of the properties of a Pokemon object when it is created. The constructor takes in parameters such as name, sprite, hp, moves, and btn_styles and sets them as properties of the object.
+
+The list of Pokemon characters is defined using the pkmList array. Each element of the array represents a Pokemon character and consists of its name, sprite, hp, and moves.
+
+The rest of the code is defining styles and other details for buttons and images in the game..*/
 
 const Pokemons = [];
 const endSound = document.getElementById("game_end");
